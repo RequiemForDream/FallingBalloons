@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bde1f699c0e49aa47ad105ca6c6802f5, type: 3}
+  m_Name: BonusBalloon
+  m_EditorClassIdentifier: 
+  _velocity: 0.08
+  _minDamage: 18
+  _maxDamage: 22
+  _minReward: 25
+  _maxReward: 30
+  _particleSystem: {fileID: 2957383414010641785, guid: 46c5e6a6d3141934eabdd858f2a76063, type: 3}
+  colors:
+  - {r: 0.18431373, g: 1, b: 0, a: 1}
+  _type: 1

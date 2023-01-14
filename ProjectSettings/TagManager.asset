@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Balloon
+  - Water
+  - UI
+  - Particle
+  - 
+  - DeathLine
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2183539945
+    locked: 0
+  - name: MainInterface
+    uniqueID: 3113656827
+    locked: 0
+  - name: ShopHud
+    uniqueID: 2235979723
+    locked: 0
+  - name: DamageBalloon
+    uniqueID: 1151040485
+    locked: 0
+  - name: DefaultBalloon
+    uniqueID: 2003275119
+    locked: 0
